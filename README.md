@@ -8,7 +8,7 @@
 |3.KNN|[KNN.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6195991/KNN.pdf)|
 |4.로지스틱 회귀분류|
 |5.판별분석|[판별분석.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6409591/default.pdf)|
-|6.의사결정나무|
+|6.의사결정나무|[의사결정나무.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6418929/default.pdf)
 |7.SVM|
 |8.군집화|
 |9.차원축소|
