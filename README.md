@@ -9,7 +9,7 @@
 |4.로지스틱 회귀분류|
 |5.판별분석|[판별분석.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6409591/default.pdf)|
 |6.의사결정나무|[의사결정나무.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6420745/default.pdf)
-|7.SVM|
+|7.SVM|[SVM.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6445432/SVM.pdf)
 |8.군집화|[Clustering.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6432959/Clustering.pdf)
 |9.차원축소|
 |10.교차검증|
