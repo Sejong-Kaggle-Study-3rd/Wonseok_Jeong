@@ -11,7 +11,7 @@
 |6.의사결정나무|[의사결정나무.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6420745/default.pdf)
 |7.SVM|[SVM.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6445432/SVM.pdf)
 |8.군집화|[Clustering.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6432959/Clustering.pdf)
-|9.차원축소|
+|9.차원축소|[차원축소.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6451795/default.pdf)
 |10.교차검증|
 |11.선형회귀|
 |12.선형분류|
