@@ -12,7 +12,7 @@
 |7.SVM|[SVM.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6445432/SVM.pdf)
 |8.군집화|[Clustering.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6432959/Clustering.pdf)
 |9.차원축소|[차원축소.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6466408/default.pdf)
-|10.교차검증|
+|10.교차검증|[교차검증.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6501693/default.pdf)
 |11.선형회귀|
 |12.선형분류|
 |13,14. 뉴럴네트워크|
