@@ -13,8 +13,7 @@
 |8.군집화|[Clustering.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6432959/Clustering.pdf)
 |9.차원축소|[차원축소.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6466408/default.pdf)
 |10.교차검증|[교차검증&앙상블.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6501871/default.pdf)
-|11.선형회귀|
-|12.선형분류|
+|11,12 선형회귀 & 분류|[선형회귀.pdf](https://github.com/Sejong-Kaggle-Study-3rd/Wonseok_Jeong/files/6713988/default.pdf)
 |13,14. 뉴럴네트워크|
 |15.CNN|
 
